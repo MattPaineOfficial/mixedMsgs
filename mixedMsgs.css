@@ -1,5 +1,9 @@
 html {
+    font-size: 1em;
+    font-family: Arial, Helvetica, sans-serif;
     text-align: center;
+    color: lightgrey;
+    background-color: black;
 }
 
 span {
@@ -7,5 +11,5 @@ span {
 }
 
 button {
-    font-size: large;
+    font-size: 1.25em;
 }
