@@ -29,5 +29,5 @@ To run, locally install the three provided files:
 
 Then run the mixedMsgs.html file, (e.g. Open with > Firefox)
 
-# Author
+## Author
 Me - [(Matt Paine)](https://github.com/MattPaineOfficial)
